@@ -1,0 +1,6 @@
+java-docker/.idea/
+java-docker/.mvn/
+java-docker/target/
+java-docker/mvnw
+java-docker/mvnw.cmd
+node-docker/node_modules/

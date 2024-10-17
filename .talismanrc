@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: .env
+  checksum: ad05849e3518198a44cfd8cee42230e330ac133fe2c0562cc3e202a5d517b2a3
+- filename: docker-compose.yml
+  checksum: 95b33249e0f80426178d1b123d3212f5cf24885e07168b6f1b2a23bf39ae85a9
+- filename: java-docker/src/main/resources/application.properties
+  checksum: 4be810463d8a81d2242f48b688a8cafdea583ba1c7df8629d36829e6c93f5bb9
+- filename: node-docker/package-lock.json
+  checksum: b8d0d43f8111de290f1a379feb5c9e2092b9cf6e409feaeafadf28c19a24d056
+- filename: postgres-docker/Dockerfile
+  checksum: a9149b1c543464b020c61252b6303f53abe0a14363b5440649b87d90a9ad357e
+- filename: postgres-docker/init.sql
+  checksum: 836d31302f690200cac1140de07f07bb40448d38d96f97327690906295cda1ef
+version: "1.0"
